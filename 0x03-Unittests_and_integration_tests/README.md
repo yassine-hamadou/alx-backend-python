@@ -45,5 +45,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 9. Integration tests
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Yassine Hamadou Mounkaila  
+:octocat: [GitHub](https://github.com/yassine-hamadou/)
